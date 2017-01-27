@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bolusopas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calculate">Calculate</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_language_settings">LanguageSettings</string>
+    <string name="title_activity_history_with_fragment">HistoryWithFragment</string>
+
+</resources>
