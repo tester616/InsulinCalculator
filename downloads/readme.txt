@@ -1,0 +1,1 @@
+Download the project as .zip. Ready for import after extraction (tested with Android Studio).

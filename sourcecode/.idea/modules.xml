@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bolusopas.iml" filepath="$PROJECT_DIR$/Bolusopas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsulinCalculator.iml" filepath="$PROJECT_DIR$/InsulinCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
-
