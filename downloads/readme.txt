@@ -1,6 +1,6 @@
 Download the project as .zip. Ready for import after extraction (tested with Android Studio).
 
-NOTE: Since my computer for whatever genius reason refuses to create a complete .zip (by totally ignoring the .idea folder) when the source folder is selected, I had to select every folder & file inside of it to make it work. In other words you need to extract the .zip and put everything into a folder. This folder originally had the same name as the .zip itself.
+NOTE: Since my computer for whatever genius reason refuses to create a complete .zip (by totally ignoring the .idea folder) when the source folder is selected, I had to select every folder & file inside of it to make it work. In other words you need to extract the .zip and put everything into a folder. This folder originally had the same name as the .zip itself (InsulinCalculator).
 
 
 
